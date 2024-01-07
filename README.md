@@ -1,10 +1,12 @@
 # :hotel::heavy_plus_sign: ECSE223 AssetPlus Project: Team P1
 
-_(Edit this file as needed, then remove this sentence)._
+This project was completed over the course of my 2023 Fall semester in a team of 6 people in the context of a course.
 
 ## Project Overview
 
-_Provide a one-sentence overview of your project here._
+We created the AssetPlus application for a hotel in the Montreal area. AssetPlus is intended to be
+used by hotel staff to effectively manage hotel assets such as furniture and appliances in rooms and
+hallways of a hotel as well as maintenance tasks.
 
 For more information about the AssetPlus application, please consult the [wiki](../../wiki).
 

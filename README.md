@@ -2,15 +2,13 @@
 
 This project was completed over the course of my 2023 Fall semester in a team of 6 people in the context of a course.
 
-For more information concerning the application's objective and its functions, see the [wiki](https://github.com/Mathieu-Allaire/AssetPlus/wiki).
-
 ## Project Overview
 
 We created the AssetPlus application for a hotel in the Montreal area. AssetPlus is intended to be
 used by hotel staff to effectively manage hotel assets such as furniture and appliances in rooms and
 hallways of a hotel as well as maintenance tasks.
 
-For more information about the AssetPlus application, please consult the [wiki](../../wiki).
+For more information concerning the AssetPlus application's objective and its functions, please consult the [wiki](https://github.com/Mathieu-Allaire/AssetPlus/wiki).
 
 ## Team Members
 

@@ -10,6 +10,9 @@ hallways of a hotel as well as maintenance tasks.
 
 For more information concerning the AssetPlus application's objective and its functions, please consult the [wiki](https://github.com/Mathieu-Allaire/AssetPlus/wiki).
 
+## Languages/Tools/Frameworks
+Java, Umple, Gherkin, Cucumber, JUnit 5, FXML, JavaFX
+
 ## Team Members
 
 | Name          | GitHub username |

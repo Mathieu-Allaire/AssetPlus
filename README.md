@@ -2,6 +2,8 @@
 
 This project was completed over the course of my 2023 Fall semester in a team of 6 people in the context of a course.
 
+For more information concerning the application's objective and its functions, see the [wiki](https://github.com/Mathieu-Allaire/AssetPlus/wiki).
+
 ## Project Overview
 
 We created the AssetPlus application for a hotel in the Montreal area. AssetPlus is intended to be

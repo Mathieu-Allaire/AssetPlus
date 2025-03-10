@@ -1,6 +1,6 @@
 # :hotel::heavy_plus_sign: AssetPlus Project
 
-This project was completed over the course of my 2023 Fall semester in a team of 6 people in the context of a course.
+This project was in a team of 6 people.
 
 ## Project Overview
 

@@ -1,7 +1,5 @@
 # :hotel::heavy_plus_sign: AssetPlus Project
 
-This project was in a team of 6 people.
-
 ## Project Overview
 
 We created the AssetPlus application for a hotel in the Montreal area. AssetPlus is intended to be

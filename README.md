@@ -1,4 +1,4 @@
-# :hotel::heavy_plus_sign: ECSE223 AssetPlus Project: Team P1
+# :hotel::heavy_plus_sign: AssetPlus Project
 
 This project was completed over the course of my 2023 Fall semester in a team of 6 people in the context of a course.
 
